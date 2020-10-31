@@ -1,0 +1,11 @@
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.csprojAssemblyReference.cache
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.Form1.resources
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.Properties.Resources.resources
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.csproj.GenerateResource.cache
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.csproj.CoreCompileInputs.cache
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\bin\Debug\Week04_01.exe.config
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\bin\Debug\Week04_01.exe
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\bin\Debug\Week04_01.pdb
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.exe
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.pdb
+C:\Users\dongkun\source\repos\Week04_01\Week04_01\obj\Debug\Week04_01.Form2.resources
